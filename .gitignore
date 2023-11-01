@@ -1,0 +1,14 @@
+
+# ignore all .xlsx files
+*.xlsx
+
+**USD history Prices/USD_KES Historical Data (15th May - 14 June 2023).csv**
+**USD history Prices/USD_KES Historical Data (15th February - 14th March 2022).csv**
+**USD history Prices/USD_KES Historical Data (15th January - 14th February 2022).csv**
+**USD history Prices/USD_KES Historical Data (15th May - 14 June 2023).csv**
+**USD history Prices/USD_KES Historical Data (15th September - 14th October 2022).csv**
+**USD history Prices/fuel_dollar_prices.csv**
+**USD history Prices/fuel_dollar_prices.csv1**
+
+
+
